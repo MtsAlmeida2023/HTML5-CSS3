@@ -1,0 +1,9 @@
+<!doctype html> 
+<!-- exemplo de titulo-->
+<h1>exemplo de titulo</h1>
+
+<p>exemplo de paragrafo</p>
+
+tag de foto 
+
+<img src="foto.png" alt="exemplo de foto">
